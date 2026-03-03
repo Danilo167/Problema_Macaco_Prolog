@@ -8,7 +8,11 @@ Considere o seguinte problema: <br><br>
 ● O macaco está no chão. <br>
 ● Bananas foram penduradas no centro do teto da sala. <br>
 ● Há um bloco (ou cadeira) na sala perto da janela. <br>
-● O macaco quer a banana, mas não consegue alcançá-la. <br><br>
+● O macaco quer a banana, mas não consegue alcançá-la. <br>
+  <p align="center">
+  <img src= "https://miro.medium.com/v2/resize:fit:700/1*IjI7hyFivUg6YUJyLO4dZQ.png" alt= "Macaco e banana">
+</p>
+<br>
 Como o macaco pode pegar bananas? Ele pode ir até o bloco, arrastá-lo para o
 centro, subir nele e pegar a banana. Abaixo estão algumas observações neste caso: <br><br>
 ● O macaco pode alcançar o bloco se ambos estiverem no mesmo nível. Na
