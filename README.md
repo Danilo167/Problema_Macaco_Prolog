@@ -12,7 +12,6 @@ Considere o seguinte problema: <br><br>
   <p align="center">
   <img src= "https://miro.medium.com/v2/resize:fit:700/1*IjI7hyFivUg6YUJyLO4dZQ.png" alt= "Macaco e banana">
 </p>
-<br>
 Como o macaco pode pegar bananas? Ele pode ir até o bloco, arrastá-lo para o
 centro, subir nele e pegar a banana. Abaixo estão algumas observações neste caso: <br><br>
 ● O macaco pode alcançar o bloco se ambos estiverem no mesmo nível. Na
